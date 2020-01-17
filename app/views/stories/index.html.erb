@@ -1,2 +1,14 @@
 <h1>Stories#index</h1>
-<p>Find me in app/views/stories/index.html.erb</p>
+<div class="card-columns">
+  <% @stories.each do |story| %>
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title"><%= story.title %></h5>
+      </div>
+      <div class="card-body">
+        <img src="<%= story.image %>" class="card-img-top" alt="<%= story.title %>">
+        <p class="card-text"><small class="text-muted"><%= story.points %> points by <%= story.username %> <%= story.time_string %> | <%= story.num_comments %> comments </small></p>
+      </div>
+    </div>  
+  <% end %>
+</div>

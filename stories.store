@@ -1,0 +1,102 @@
+---
+:best:
+- !ruby/object:HackerNews::Entry
+  link: https://news.ycombinator.com/item?id=22050802
+  title: 'Thank HN: You helped me get a new job'
+  site: ''
+  points: 2368
+  username: atum47
+  time_string: 2 days ago
+  num_comments: 2
+  id: 22050802
+  image: https://pbs.twimg.com/profile_images/378800000011494576/9c90acb704cbf9eef6135009c9bb5657_400x400.png
+- !ruby/object:HackerNews::Entry
+  link: https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF
+  title: Patch Critical Cryptographic Vulnerability in Microsoft Windows [pdf]
+  site: defense.gov
+  points: 706
+  username: Moral_
+  time_string: 2 days ago
+  num_comments: 2
+  id: 22047573
+  image: https://pbs.twimg.com/profile_images/378800000011494576/9c90acb704cbf9eef6135009c9bb5657_400x400.png
+- !ruby/object:HackerNews::Entry
+  link: https://techcrunch.com/2020/01/15/mozilla-lays-off-70-as-it-waits-for-subscription-products-to-generate-revenue
+  title: Mozilla lays off 70
+  site: techcrunch.com
+  points: 910
+  username: ameshkov
+  time_string: 1 day ago
+  num_comments: 1
+  id: 22057737
+  image: https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1064279020.jpg?w=573
+- !ruby/object:HackerNews::Entry
+  link: http://news.trust.org/item/20200115150054-km9of/
+  title: Climate threats now dominate long-term risks, survey of global leaders finds
+  site: trust.org
+  points: 493
+  username: drocer88
+  time_string: 1 day ago
+  num_comments: 1
+  id: 22057576
+  image: https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/d402f571-5ad3-42af-89d5-a77954843f9f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100
+- !ruby/object:HackerNews::Entry
+  link: https://www.applearchive.org/
+  title: Unofficial Apple Archive
+  site: applearchive.org
+  points: 594
+  username: todotask
+  time_string: 17 hours ago
+  num_comments: 17
+  id: 22066177
+  image: http://static1.squarespace.com/static/5d58487888d0190001403a38/t/5d5855c49ee94800013d0678/1566070215420/Social+Media+Logo.jpg?format=1500w
+- !ruby/object:HackerNews::Entry
+  link: https://glia.org/
+  title: Glia – High-quality low-cost open source medical hardware
+  site: glia.org
+  points: 583
+  username: robtherobber
+  time_string: 1 day ago
+  num_comments: 1
+  id: 22054163
+  image: https://pbs.twimg.com/profile_images/378800000011494576/9c90acb704cbf9eef6135009c9bb5657_400x400.png
+- !ruby/object:HackerNews::Entry
+  link: https://nobsgames.stavros.io/
+  title: 'Show HN: Tired of mobile games with IAP and ads, I made No-Bullshit Games'
+  site: stavros.io
+  points: 476
+  username: StavrosK
+  time_string: 21 hours ago
+  num_comments: 21
+  id: 22063744
+  image: https://pbs.twimg.com/profile_images/378800000011494576/9c90acb704cbf9eef6135009c9bb5657_400x400.png
+- !ruby/object:HackerNews::Entry
+  link: https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/
+  title: The new Microsoft Edge is out of preview
+  site: windows.com
+  points: 544
+  username: MikusR
+  time_string: 1 day ago
+  num_comments: 1
+  id: 22055976
+  image: https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/2/2020/01/2c8d9fadf7139810c72505bc87f2405f-1024x498.jpg
+- !ruby/object:HackerNews::Entry
+  link: https://www.hipmunk.com/tailwind/hipmunk-says-goodbye/
+  title: Hipmunk Says Goodbye
+  site: hipmunk.com
+  points: 602
+  username: ienjoythebeach
+  time_string: 2 days ago
+  num_comments: 2
+  id: 22048427
+  image: "//assets.hipmunk.com/tailwind/content/uploads/2020/01/eyJwYXRoIjoiXC9wdWJsaWNcL3VwbG9hZFwvc2NyZWVuc1wvMTI1MDg0XC9hOTJjZjRlN2Q5MmI5MWUxY2NmOTU3NWFhODgwNjNhYi0xNTA3NTgwMTY5LnBuZyJ9_frontify_cHTtieugOc9nJZIY6fTVxTgYFk8qWDcjzkhKLr12lQs-1024x272.png"
+- !ruby/object:HackerNews::Entry
+  link: https://theconversation.com/blackrock-is-the-canary-in-the-coalmine-its-decision-to-dump-coal-signals-whats-next-129972
+  title: BlackRock’s decision to dump coal signals what’s next
+  site: theconversation.com
+  points: 462
+  username: evolve2k
+  time_string: 12 hours ago
+  num_comments: 12
+  id: 22069310
+  image: https://images.theconversation.com/files/310122/original/file-20200115-151844-n7n5n9.jpg?ixlib=rb-1.1.0&rect=17%2C1113%2C3964%2C1982&q=45&auto=format&w=1356&h=668&fit=crop
